@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.jpg" alt="Muhammad Mumtaaz Raihaan Thaariq Banner" width="100%">
+  <img src="Banner.png" alt="Muhammad Mumtaaz Raihaan Thaariq Banner" width="100%">
 </p>
 
 ## Hi there, I'm Mumtaaz! 👋
