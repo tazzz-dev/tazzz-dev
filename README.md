@@ -33,7 +33,7 @@ I am an Information Systems undergraduate student at UPN Veteran Jakarta. I have
 * **Freelance Inline Skate Coach** at Decathlon Indonesia
 
 ### 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/muhammad-mumtaaz](https://www.linkedin.com/in/muhammad-mumtaaz-04134b320/)) 
-* **Email:** muhammadmumtaaz@gmail.com ```
+* **LinkedIn:** [linkedin.com/in/muhammad-mumtaaz](https://www.linkedin.com/in/muhammad-mumtaaz-04134b320/) 
+* **Email:** mumtaazraihaan@gmail.com 
 
 ---
