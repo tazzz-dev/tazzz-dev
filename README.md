@@ -27,6 +27,13 @@ I am an Information Systems undergraduate student at UPN Veteran Jakarta. I have
 
 ---
 
+### 🏆 My GitHub Skills Achievements
+<img src="https://github.com/skills/introduction-to-github/raw/main/images/content/complete.png" width="150" alt="Introduction to GitHub Passed"/>
+
+* **Introduction to GitHub** - Completed Successfully! 🚀
+
+---
+
 ### 📂 Current Activities
 * **Head of Internal Control Division** at KSM Robotika UPNVJ
 * **Game Development Division Member** at KSM Multimedia UPNVJ
