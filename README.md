@@ -28,10 +28,9 @@ I am an Information Systems undergraduate student at UPN Veteran Jakarta. I have
 ---
 
 ### 🏆 My GitHub Skills Achievements
-<img src="https://github.com/skills/introduction-to-github/raw/main/images/content/complete.png" width="150" alt="Introduction to GitHub Passed"/>
+- ![GitHub Skills](https://img.shields.io/badge/GitHub%20Skills-Introduction%20to%20GitHub-brightgreen?logo=github) `Completed`
 
-* **Introduction to GitHub** - Completed Successfully! 🚀
-
+*Buktikan kelulusan saya langsung di repositori latihan:* [Lihat Repositori Latihan Introduction to GitHub Saya](https://github.com/USERNAME-KAMU/introduction-to-github)
 ---
 
 ### 📂 Current Activities
